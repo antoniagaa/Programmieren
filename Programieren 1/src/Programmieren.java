@@ -5,6 +5,7 @@ public class Programmieren {
 		// TODO Automatisch generierter Methodenstub
 		
 		System.out.println("Hello World");
+		System.out.println("Hello Germany");
 
 	}
 
