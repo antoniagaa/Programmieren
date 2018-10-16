@@ -6,6 +6,7 @@ public class Programmieren {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello Germany");
+		System.out.println("Hello Austria");
 
 	}
 
